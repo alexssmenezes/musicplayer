@@ -56,7 +56,7 @@ Um player de músicas simples, moderno e responsivo, pronto para rodar diretamen
 
 ## 📷 Preview
 
-*(adicione aqui um print da interface, ex:)*  
+Interface Web - Music Player 
 ![Music Player](imagens/print_music_player.png)
 
 ---
