@@ -25,14 +25,12 @@ Um player de músicas simples, moderno e responsivo, pronto para rodar diretamen
 ---
 
 ## 📂 Estrutura do Projeto
-
-/
-├── index.html # Página principal
-├── style.css # Estilos do player
-├── script.js # Lógica do player em JS
-├── imagens/ # Capas das músicas
-├── musicas/ # Arquivos de áudio (.mp3)
-└── README.md # Documentação
+- ├── index.html # Página principal
+- ├── style.css # Estilos do player
+- ├── script.js # Lógica do player em JS
+- ├── imagens/ # Capas das músicas
+- ├── musicas/ # Arquivos de áudio (.mp3)
+- └── README.md # Documentação
 
 ---
 
